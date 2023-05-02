@@ -20,6 +20,7 @@
 ## 💻 About the project
 
 👨‍💻 NetflixClone - The intention of this project is realize a movie streaming platform.
+🚀 You have access to this project on the website (https://netflix-clone-gilt-sigma.vercel.app/auth)
 
 ---
 
